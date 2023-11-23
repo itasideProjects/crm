@@ -1,4 +1,4 @@
-# React Redux CRM
+# React Redux CRM for ITA Side Projects
 
 > A reusable CRM project for real-world business based on React 15.4, React-Redux & Material-UI
 
